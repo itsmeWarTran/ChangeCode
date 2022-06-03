@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/obj/Debug/net5.0/ChangeCode.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/obj/Debug/net5.0/ChangeCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/obj/Debug/net5.0/ChangeCode.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/obj/Debug/net5.0/ChangeCode.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/obj/Debug/net5.0/ChangeCode.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/bin/Debug/net5.0/ChangeCode.deps.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/bin/Debug/net5.0/ChangeCode.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/bin/Debug/net5.0/ChangeCode.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/bin/Debug/net5.0/ChangeCode.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/bin/Debug/net5.0/ref/ChangeCode.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/bin/Debug/net5.0/ChangeCode.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/obj/Debug/net5.0/ChangeCode.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/obj/Debug/net5.0/ref/ChangeCode.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/obj/Debug/net5.0/ChangeCode.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/ChangeCode/obj/Debug/net5.0/ChangeCode.genruntimeconfig.cache
